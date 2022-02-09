@@ -68,7 +68,7 @@
     }
   
     .lmar{
-      margin-left: 100px;
+      margin-left: 191px;
       margin-right: 0;
       margin-bottom: 50px;
     }
@@ -187,7 +187,7 @@
       font-size: 3rem;
       min-width: 900px;
       margin-left: -61px;
-  
+      padding-right: 20px;
     }
   
     .psize{
@@ -195,6 +195,7 @@
       min-width: 863px;
       margin-left: -59px;
       line-height: 70px;
+      padding-right: 20px;
     }
   
     .fs1rem{
